@@ -1,2 +1,2 @@
 # javascript
- Curo de Javascript do Cursoemvideo
+ Curso de Javascript do Cursoemvideo
